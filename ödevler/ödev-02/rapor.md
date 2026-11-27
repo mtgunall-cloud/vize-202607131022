@@ -10,9 +10,8 @@
 
 **Kullandığım veritabanı:** [ ] `llm_ops` [x] `robot_fleet`
 
-**PR bağlantısı:** https://github.com/[kullanici-adin]/[repo-adin]/pull/[PR-numarasi]
-
-**Commit sayısı:** 3
+**PR bağlantısı:** (https://github.com/mtgunall-cloud/vize-202607131022/pull/3)
+**Commit sayısı:** 4
 
 ---
 
